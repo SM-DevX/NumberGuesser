@@ -1,8 +1,29 @@
-# Number Guesser
+<p align="center">
+  <img src="https://github.com/SM-DevX/SM_DevX/blob/main/8C30F60C-2670-46DD-A514-D8585998DB46.png?raw=true" alt="SM_DevX Logo" width="120"/>
+</p>
 
-A simple Java console game where the player tries to guess a randomly generated number between 1 and 100.
+<h1 align="center">🎲 Number Guesser — Java Console Game</h1>
 
-## How to Run
+<p align="center">
+  A beginner-friendly number guessing game built with Java.
+</p>
 
-1. Make sure you have Java installed.
-2. Compile the code:
+---
+
+## 📜 About the Project
+
+**Number Guesser** is a simple console-based Java program where:
+- The program randomly selects a number within a specific range.
+- The player guesses the number.
+- The program provides feedback until the correct number is guessed.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Java
+- **Platform:** Console
+
+---
+
+## 📂 Project Structure
