@@ -27,3 +27,29 @@
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 🚀 How to Run This Project
+
+1. **Download the `NumberGuesser.java` file** from this repository.
+2. Open your terminal or Java IDE (e.g. IntelliJ IDEA, Eclipse, or VS Code).
+3. Navigate to the directory where your file is located.
+4. Compile the program:
+5. Run the program:
+
+## 🎮 Example Output
+
+---
+
+## 📌 Author
+
+- **SM_DevX**
+- 🚀 Aspiring Software Developer
+- 🔗 [GitHub Profile](https://github.com/SM-DevX)
+
+---
+
+## 📣 License
+
+This project is open source and free to use for learning purposes.
